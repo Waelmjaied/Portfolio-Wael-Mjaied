@@ -334,7 +334,7 @@ export default function Portfolio() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/mjaied-wael-b2b591340"
+              href="https://linkedin.com/in/waelmjaied"
               target="_blank"
               rel="noreferrer"
               style={{
